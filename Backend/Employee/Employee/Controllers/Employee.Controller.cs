@@ -2,11 +2,12 @@
 using Employee.Models;
 using Employee.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
+
 
 namespace Employee.Controllers
 {
-
+    [ApiController]
+    [Route("Api/[controller]")]
     public class EmployeeController : Controller
     {
 

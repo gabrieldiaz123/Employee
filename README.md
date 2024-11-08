@@ -2,32 +2,20 @@
 
 Proposito de  esta API:
 
-El propósito de esta API es facilitar el registro y la consulta registros
-que estan en una base de datos de MySQL, con esta API 
-podemos registrar informacion y consultarla cuando 
-la queramos. 
+El propósito de esta API es facilitar el registro y la consulta registrosque estan en una base de datos de MySQL, con esta API 
+podemos registrar informacion y consultarla cuando la queramos. 
 
 pasos de ejecutar una API:
 
-paso 1 : instalamos ( Visual Studio Code comunity) y el
-.NET, ya que es necesarios para trabajar con APIs en .NET.
+paso 1 : damos  en nuestro computador el comando cmd para ejecutar  la consola donde se
+ realizará el comando de git
 
-paso 2 : Desde  Visual Studio Code comunity, creamos un nuevo 
-proyecto API y creamos las carpetas y archivos necesarios.
+paso 2 : daremos el Comando git clone y colocamos la ruta de nuestro del repositorio 
 
-paso 3 : despues de tener todos nuestro archivos creados con sus 
-respectivos codigos donde se realiza la conexcion a la base de datos.
+paso 3 :  al clonar el repositorio del proyecto entramos y ejecutamos el archivo sln
 
-paso 4 : despueste de verificar que todo este correcto en nuestro codigo,
-ejecutamos nueestra API y verificamos que funcione
+paso 4 : damos  un botón en visual llamado http
 
+paso 5 : probamos la Api en el swagger
 
 
-pasos para subir una API a Git:
-
-paso 1 : vamos al cmd desde nuestra carpeta que tiene la API y damos comando 
-de git add .
-
-paso 2 : despues damos el comando de git para gusdar los cambios " git commit -b "primer commit"
-
-paso 3 : damos el comando para subir nuestros cambios a la main " git oush origin main"
